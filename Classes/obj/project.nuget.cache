@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vl/L4+kg1zyyVtaXPc6nZmnOiAfJKzYG3dLfKQoey6Xp/0uu9033XcP2TkCUoghDHEFb8s3Yi2MYXRU/Rm7olA==",
+  "success": true,
+  "projectFilePath": "/Users/raynardbrown/Desktop/repos2/Classes-Exercise/Classes/Classes.csproj",
+  "expectedPackageFiles": [
+    "/Users/raynardbrown/.nuget/packages/microsoft.netcore.app.ref/6.0.32/microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/raynardbrown/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/raynardbrown/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.32/microsoft.netcore.app.host.osx-arm64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
